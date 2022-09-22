@@ -1,2 +1,2 @@
-REMOTE
+LOCAL
 c'est mon psudo !
